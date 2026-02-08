@@ -58,7 +58,6 @@ Accident occurred near highway. Policy P123. Estimated Damage: 12000
   "reasoning": "Estimated damage below 25,000"
 }
 
----
 
 ## 🛠 Tech Stack
 
@@ -68,6 +67,5 @@ Accident occurred near highway. Policy P123. Estimated Damage: 12000
 
 -Maven
 
----
 
 
