@@ -59,11 +59,13 @@ Accident occurred near highway. Policy P123. Estimated Damage: 12000
 }
 
 ---
+
 ## 🛠 Tech Stack
 
 -Java
 
 -Spring Boot
 
-Maven
+-Maven
+
 ---
